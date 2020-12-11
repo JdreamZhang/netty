@@ -13,6 +13,7 @@
 
     <modules>
         <module>io</module>
+        <module>netty-demo</module>
     </modules>
 
 </project>
